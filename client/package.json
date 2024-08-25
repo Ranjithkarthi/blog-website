@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://blog-site-backend-xz4s.onrender.com"
+  "proxy": "https://blog-site-backend-xz4s.onrender.com/api"
 }
